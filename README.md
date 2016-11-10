@@ -1,6 +1,7 @@
 # i-com Data Science Hackathon 2016
 ## UC3M Team code
 
+## WARNING! tweets file (_tweets\_2015.json_) NOT included
 ### Step I
 Insert tweets file to mongoDB
 > InsertDataToDB.py _tweets\_2015.json_
